@@ -1,6 +1,6 @@
 # AI Car
 
-This is meant to be a small simulation of the A* Algorithm fused with steering behvaiours to make a car find an optimal path and move from start to goal, avoiding obstacles.
+This is meant to be a small simulation of the A* Algorithm fused with steering behaviours to make a car find an optimal path and move from start to goal, avoiding obstacles.
 
 _(The gif speed is 2x)_
 
