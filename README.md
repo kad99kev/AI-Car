@@ -34,5 +34,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Sources of Knowledge
 
 1. I had originally created an implementation in JavaScript using [p5.js](https://p5js.org/) with the help of [this awesome man](https://www.youtube.com/watch?v=aKYlikFAV4k&t=17s).
-2. [A great playlist](https://www.youtube.com/playlist?list=PLFt_AvWsXl0cq5Umv3pMC9SPnKjfp9eGW) on A* Algorithm and Optimization (also includes threading, which I haven't implemented. A good playlist overall.)
+2. [A great playlist](https://www.youtube.com/playlist?list=PLFt_AvWsXl0cq5Umv3pMC9SPnKjfp9eGW) on A* Algorithm and Optimization (also includes threading, which I haven't implemented. A good playlist overall).
 3. [Craig Reynold's](https://www.red3d.com/cwr/steer/gdc99/) steering forces. Also summed up into a playlist by [Daniel Shiffman](https://www.youtube.com/watch?v=JIz2L4tn5kM&list=PLRqwX-V7Uu6YHt0dtyf4uiw8tKOxQLvlW).
